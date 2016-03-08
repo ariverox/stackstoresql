@@ -1,0 +1,19 @@
+{
+  "name": "stackstoresql",
+  "version": "1.0.0",
+  "description": "Simples store project with sql,react, and redux to hammer down the basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariverox/stackstoresql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariverox/stackstoresql/issues"
+  },
+  "homepage": "https://github.com/ariverox/stackstoresql#readme"
+}
