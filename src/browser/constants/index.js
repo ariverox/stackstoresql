@@ -1,0 +1,7 @@
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_ITEMS = 'FETCH_ITEMS'
+export const FETCH_ITEM = 'FETCH_ITEM'
+export const REGISTER= 'REGISTER'
+export const LOGIN = 'LOGIN'
+export const SESSION = 'SESSION'
+export const LOGOUT = 'LOGOUT'
